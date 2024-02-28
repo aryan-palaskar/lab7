@@ -29,3 +29,16 @@
 *  `<2>` key was pressed to insert `2` at the same position where we deleted `1`.
 *  `<Ctrl-C>` was pressed to exit `insert` mode in vim.
 *  `<:wq>` was types to save and quit the file. 
+
+## Step 8 
+![Image](5lab7.png)
+* Typed `bash <space> test.sh` to run the tests on the file `ListExamples`.
+* The test returned no errors from both the tests.
+
+
+## Step 9
+
+
+
+
+
