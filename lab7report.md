@@ -32,12 +32,15 @@
 
 ## Step 8 
 ![Image](5lab7.png)
-* Typed `bash <space> test.sh` to run the tests on the file `ListExamples`.
+* Typed `<up> <up>` to get `bash <space> test.sh` from the bash history and run the tests on the file `ListExamples`.
 * The test returned no errors from both the tests.
 
 
 ## Step 9
-
+![Image](6lab7.png)
+* Typed `git <space> add <space> ListExamples.java` to add the file to the repo
+* Typed `git <space> commit <space> -m <space> "Files updated"` to commit the changes to the file.
+* Typed `git <space> push <space> -u origin main` to push the changes to the repo. 
 
 
 
