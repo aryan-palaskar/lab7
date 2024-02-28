@@ -13,13 +13,13 @@
 
 
 ## Step 6 
-![Image](3.lab7.png)
+![Image](3lab7.png)
 * Typed `bash <space> test.sh` to run the tests on the file `ListExamples`.
 * The test returned an error from the test `testMerge2`.
 
 
 ## Step 7
-
+![Image](4lab7.png)
 * Typed `vim <space> ListExamples.java` to open the file in vim.
 * `43 <J>` then `<e>` then `<x>` then `<i>` then `<2>` then `<Ctrl-C>` then `<:wq>`.
 *  After entering vim editor I pressed `<J>` key 43 times to move the cursor down to the line I want to edit.
